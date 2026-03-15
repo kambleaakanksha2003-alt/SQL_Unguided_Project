@@ -128,18 +128,6 @@ The repository includes screenshots showing:
 
 ---
 
-## 📂 Project Structure
-
-```id="n2m9z7"
-SQL-Ecommerce-Analysis
-│
-├── ecommerce_sql_project_dataset.xlsx
-├── README.md
-└── screenshots
-```
-
----
-
 ## 🚀 Future Improvements
 
 Possible improvements for this project include:
